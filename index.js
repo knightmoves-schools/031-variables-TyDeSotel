@@ -1,2 +1,2 @@
-document.getElementById(courseLength).innerHTML = initializedValue;
+document.getElementById('courseLength').innerHTML = initializedValue;
 let initializedValue = 20;
